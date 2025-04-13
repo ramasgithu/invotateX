@@ -23,3 +23,9 @@ Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 AI Integration: GPT/Gemini APIs
 Code Editor: Embedded online compiler (multi-language support)
+
+TechStackUsed:
+Frontend : HTML,CSS,JavaScript
+Backend : node.js,express.js
+database : Mongodb
+tools : vscode,claudai
